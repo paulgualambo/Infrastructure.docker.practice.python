@@ -35,5 +35,8 @@ docker build . -t docker-python-1
 docker run -d --name docker-python-1 docker-python-1
 
 
+#docker-compose 
+docker-compose up --build -d
+
 
 
